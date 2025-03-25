@@ -1,4 +1,3 @@
-// 5. README.md content:
 # API Client Package
 
 A simple API client with JWT authentication support.
